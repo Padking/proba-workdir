@@ -3,3 +3,5 @@ print(5)
 a = 3
 
 b = 6
+
+c = enumerate()
